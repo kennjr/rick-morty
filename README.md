@@ -49,6 +49,8 @@ What makes this app worthwhile, you might be asking. Here are some of the featur
   
   
 ## Support
+> [!IMPORTANT]
+> This was an educational project, meant to practice what I'd learned
 
 For any support report an issue on this repository, I'll work on it and update the codebase as soon as I can.
 
