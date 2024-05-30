@@ -22,7 +22,7 @@ Here are some screenshots of the application
 | ![First screenshot](https://github.com/kennjr/rick-morty/blob/dev/screenshot_1.jpg?raw=true) | ![Second screenshot](https://github.com/kennjr/rick-morty/blob/dev/screenshot_2.jpg?raw=true) | ![Third screenshot](https://github.com/kennjr/rick-morty/blob/dev/screenshot_3.jpg?raw=true)|
     
   
-### Tech stack
+## Tech stack
 
 Being an educational project I built it with the latest and greatest android technologies:
 
@@ -36,7 +36,7 @@ Being an educational project I built it with the latest and greatest android tec
       : for image loading
 
   
-### Features
+## Features
 
 What makes this app worthwhile, you might be asking. Here are some of the features our users enjoy:
 
@@ -48,12 +48,14 @@ What makes this app worthwhile, you might be asking. Here are some of the featur
         Since this is a separate page I used Compose navigation with hilt to navigate the user to this page from the details page
   
   
-### Support
+## Support
+> [!IMPORTANT]
+> This was an educational project, meant to practice what I'd learned
 
 For any support report an issue on this repository, I'll work on it and update the codebase as soon as I can.
 
 Better yet, you could fork the project and try fixing it, if it's something you think you can mend.  
 
   
-### License
+## License
 This software is publicly available under the [MIT](LICENSE) license
