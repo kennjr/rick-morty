@@ -27,13 +27,13 @@ Here are some screenshots of the application
 Being an educational project I built it with the latest and greatest android technologies:
 
     - Jetpack Compose
-    : for the project's UI
+      : for the project's UI
     - Ktor
-    : for all network requests
+      : for all network requests
     - Dagger hilt
-    : for dependency injection
+      : for dependency injection
     - Coil
-    : for image loading
+      : for image loading
 
   
 ### Features
