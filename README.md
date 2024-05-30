@@ -6,34 +6,36 @@
 
 Ever wanted to find some information about a character on the popular TV series Rick & Morty? It could be information about which seasons the character appeared in, whether the character is alive or dead, the character's origin or the character's species. Well look no further, this Rick & Morty application has all that you're looking for.
 
-With the help of a [free API](https://rickandmortyapi.com/) this application gets you all the information related to any character that appeared in the show, and not just the popular characters but also those that appeared in even a single episode like ==**Agency Director**==.
+With the help of a [free API](https://rickandmortyapi.com/) this application gets you all the information related to any character that appeared in the show, and not just the popular characters but also those that appeared in even a single episode like **Agency Director**.
 
 Thanks to [Axel Fuhrmann](https://afuh.dev/) from Berlin, I was able to build an application for all Rick & Morty fans. His free-to-use [api](https://rickandmortyapi.com/) powers this application by providing all the data served to our users.
 
 ---
 
+  
 ### Look and feel
 
 Here are some screenshots of the application
 
-Characters List            |                                        Character Details                                         |  Character Episodes
-:-------------------------:|:------------------------------------------------------------------------------------------------:|:---------------------:|
-![First screenshot](https://github.com/kennjr/rick-morty/blob/master/screenshot_1.png?raw=true)  | ![Second screenshot](https://github.com/kennjr/rick-morty/blob/master/screenshot_2.png?raw=true) | ![Third screenshot](https://github.com/kennjr/rick-morty/blob/master/screenshot_3.png?raw=true)
+|                                       Characters List                                        |                                       Character Details                                       |  Character Episodes|
+|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:---------------------:|
+| ![First screenshot](https://github.com/kennjr/rick-morty/blob/dev/screenshot_1.jpg?raw=true) | ![Second screenshot](https://github.com/kennjr/rick-morty/blob/dev/screenshot_2.jpg?raw=true) | ![Third screenshot](https://github.com/kennjr/rick-morty/blob/dev/screenshot_3.jpg?raw=true)|
     
-
+  
 ### Tech stack
 
 Being an educational project I built it with the latest and greatest android technologies:
 
     - Jetpack Compose
-      : for the project's UI
+    : for the project's UI
     - Ktor
-      : for all network requests
+    : for all network requests
     - Dagger hilt
-      : for dependency injection
+    : for dependency injection
     - Coil
-      : for image loading
+    : for image loading
 
+  
 ### Features
 
 What makes this app worthwhile, you might be asking. Here are some of the features our users enjoy:
@@ -44,13 +46,14 @@ What makes this app worthwhile, you might be asking. Here are some of the featur
     - Character episodes
       : A user might want to know which episodes a character appears in and they'll find this information in the episodes page
         Since this is a separate page I used Compose navigation with hilt to navigate the user to this page from the details page
-
+  
+  
 ### Support
 
 For any support report an issue on this repository, I'll work on it and update the codebase as soon as I can.
 
-Better yet, you could fork the project and try fixing it, if it's something you think you can mend.
+Better yet, you could fork the project and try fixing it, if it's something you think you can mend.  
 
-
+  
 ### License
 This software is publicly available under the [MIT](LICENSE) license
